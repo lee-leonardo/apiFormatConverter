@@ -1,0 +1,22 @@
+{
+  "name": "api-format-converter",
+  "version": "0.0.1",
+  "description": "This is a format conveter that helps with conversion from multiple data formats such as yaml, json, and xml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee-leonardo/apiFormatConverter.git"
+  },
+  "author": "Leonardo Lee lee.leonardo.king@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lee-leonardo/apiFormatConverter/issues"
+  },
+  "homepage": "https://github.com/lee-leonardo/apiFormatConverter#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.28.3"
+  }
+}
